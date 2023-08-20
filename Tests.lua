@@ -157,7 +157,7 @@ function lib:init(ti, dosplash, visiblekey, deleteprevious)
     workarea.Parent = main
     workarea.BackgroundColor3 = Color3.fromRGB(0,0,0)
     workarea.Position = UDim2.new(0.36403501, 0, 0, 0)
-    workarea.Size = UDim2.new(0, 458, 0, 584)
+    workarea.Size = UDim2.new(0, 258, 0, 384)
 
     local uc_2 = Instance.new("UICorner")
     uc_2.CornerRadius = UDim.new(0, 18)
