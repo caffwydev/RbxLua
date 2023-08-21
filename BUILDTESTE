@@ -902,7 +902,6 @@ function AutoFarm()
         end
     end
     end)
-end) 
 end
 
 local function compareStrings(a, b)
